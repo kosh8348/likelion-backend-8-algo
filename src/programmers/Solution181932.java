@@ -1,6 +1,6 @@
 package programmers;
 
-public class Solution {
+public class Solution181932 {
     public String solution(String code) {
         StringBuilder answerBuilder = new StringBuilder();
         // 181932 코드 처리하기

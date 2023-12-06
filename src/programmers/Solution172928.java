@@ -1,7 +1,9 @@
-package d1;
+package programmers;
 
-public class Solution {
-    public int[] solution(String[] parkStr, String[] routes) {
+// https://school.programmers.co.kr/learn/courses/30/lessons/172928
+
+public class Solution172928 {
+    public int[] solution172928(String[] parkStr, String[] routes) {
         // 넓이와 높이 구하기
         int width = parkStr[0].length();
         int height = parkStr.length;

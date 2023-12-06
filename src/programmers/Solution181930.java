@@ -1,12 +1,8 @@
-package d2;
-
-
-
-// https://school.programmers.co.kr/learn/courses/30/lessons/181930
+package programmers;
 
 import java.util.Arrays;
 
-public class Solution {
+public class Solution181930 {
     public int solution(int a, int b, int c) {
         // 정렬을 하기위해 배열로 나열한다.
         int[] numbers = {a, b, c};
@@ -30,4 +26,3 @@ public class Solution {
         }
     }
 }
-
